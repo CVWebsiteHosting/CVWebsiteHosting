@@ -28,16 +28,34 @@ Welcome! This guide will help you understand how to make basic edits to an HTML 
 
 ## 🔍 Where to Find the Code You Want to Edit
 
-	1.	Use Your Browser’s Developer Tools
+1.  **Use Your Browser’s Developer Tools**
 		• Right-click anywhere on the webpage and select Inspect (or press F12).
 		• Hover over the elements in the developer tools to highlight the corresponding parts of the webpage.
-	2.	Search Your HTML File
- 
-Use the search feature in your text editor (Ctrl + F or Cmd + F) to find specific text or elements.
-	3.	Look for Comments
+2.  **Search Your HTML File**
+                • Use the search feature in your text editor (Ctrl + F or Cmd + F) to find specific text or elements.
+3.  **Look for Comments**
  
 HTML files often include comments like:
 
 ```html
 <!-- This is the navigation section -->
 ```
+
+_These comments can help you identify where specific sections of the webpage are located in the code._
+
+
+----
+
+## 🌐 Useful Resources for Learning Web Development
+
+### 📚 [Materialize Framework](https://materializecss.com)  
+A modern responsive front-end framework that helps build sleek and mobile-friendly websites.
+
+### 🎨 [Introduction to CSS](https://www.w3schools.com/css/css_intro.asp)  
+Learn how to style your website using CSS with this beginner-friendly resource.
+
+### 🎓 [Online Courses on Udemy](https://www.udemy.com/)  
+Explore a variety of online courses to learn web development, design, and more.
+
+### 💻 [Learn to Code for Free](https://www.freecodecamp.org/learn)  
+Start your coding journey with free, interactive lessons.
