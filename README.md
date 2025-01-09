@@ -15,9 +15,11 @@ Welcome! This guide will help you understand how to make basic edits to an HTML 
 3. **Make Your Changes**  
    For example changing text is shown here:
    
-   <h1>Old Text</h1>
-   
-   <h1>Welcome to My Website!</h1>
+```html
+<h1>Old Text</h1>
+
+<h1>Welcome to My Website!</h1>
+```
    
 4. **Save the file (Ctrl + S or Cmd + S) and refresh your browser to see the changes.**
 
