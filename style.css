@@ -116,7 +116,7 @@ section h2::after {
     margin-bottom: 30px;
 }
 
-.experience-box {
+.educationexperience-box {
     background: #ecf6fb;
     padding: 20px;
     margin-bottom: 20px;
@@ -125,17 +125,17 @@ section h2::after {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.experience-box:hover {
+.educationexperience-box:hover {
     transform: scale(1.03);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
 
-.experience-box h3 {
+.educationexperience-box h3 {
     font-size: 1.5em;
     color: #34495e;
 }
 
-.experience-box ul {
+.educationexperience-box ul {
     list-style-type: disc;
     padding-left: 20px;
     margin-top: 10px;
@@ -161,4 +161,4 @@ section h2::after {
         transform: translateX(0);
         opacity: 1;
     }
-}
+} 
