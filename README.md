@@ -55,6 +55,7 @@ A modern responsive front-end framework that helps build sleek and mobile-friend
 Learn how to style your website using CSS with this beginner-friendly resource.
 
 ### 🎓 [Online Courses on Udemy](https://www.udemy.com/?utm_source=adwords-brand&utm_medium=udemyads&utm_campaign=MX_FF-CONV_GB_Search-Brand_Direct-la.EN_Google&campaigntype=Search&portfolio=BrandDirect&language=EN&product=Course&test=&audience=Keyword&topic=&priority=&funnel=Conversion&utm_content=&utm_term=_._ag_136625441456_._ad_595700622930_._kw_udemy_._de_c_._dm__._pl__._ti_kwd-296956216253_._li_9045873_._pd__._&matchtype=b&gad_source=1&gclid=EAIaIQobChMIxqX9p7mkigMVRqNQBh25gg_qEAAYASAAEgITYPD_BwE)
+Explore a variety of online courses to learn web development, design, and more.
 
 ### 💻 [Learn to Code for Free](https://www.freecodecamp.org/learn)  
 Start your coding journey with free, interactive lessons.
